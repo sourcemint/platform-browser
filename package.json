@@ -1,0 +1,9 @@
+{
+    "name": "sourcemint-platform-browser",
+    "version": "0.1.0",
+    "pm": "npm",
+    "shrinkwrap": true,
+    "dependencies": {
+        "sourcemint-platform-nodejs": "0.x"
+    }
+}
