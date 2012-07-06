@@ -1,6 +1,6 @@
 {
   "name": "sourcemint-platform-browser",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "dependencies": {
     "sourcemint-bundler-js": {
       "version": "0.3.5",
