@@ -44,7 +44,7 @@
           "version": "1.3.9"
         },
         "sourcemint-loader-js": {
-          "version": "0.3.5",
+          "version": "0.3.6",
           "dependencies": {
             "q": {
               "version": "0.8.2",
@@ -57,7 +57,7 @@
           }
         },
         "sourcemint-platform-nodejs": {
-          "version": "0.3.3",
+          "version": "0.4.0",
           "dependencies": {
             "q": {
               "version": "0.8.5"
@@ -210,6 +210,9 @@
     },
     "q": {
       "version": "0.8.5"
+    },
+    "wrench": {
+      "version": "1.3.9"
     }
   }
 }
